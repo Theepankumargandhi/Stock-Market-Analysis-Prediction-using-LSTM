@@ -48,4 +48,4 @@ This project demonstrates how to analyze and predict stock market prices using L
 1. Clone this repository:
    ```bash
    git clone https://github.com/Theepankumargandhi/Stock-Market-Analysis-Prediction-using-LSTM
-   cd stock-lstm-prediction
+```
